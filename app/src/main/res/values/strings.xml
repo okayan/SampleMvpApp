@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleMvpApp</string>
+    <string name="message_saved">保存しました</string>
+    <string name="message_no_data">保存された情報がありません</string>
+</resources>
